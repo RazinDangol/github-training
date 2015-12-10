@@ -1,3 +1,4 @@
 'This is a test file for branching'
-asfdasf 
+asfdasf
+
 asd
